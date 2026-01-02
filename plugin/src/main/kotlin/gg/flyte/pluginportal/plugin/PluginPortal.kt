@@ -16,7 +16,7 @@ open class PluginPortal : JavaPlugin() {
     companion object {
         lateinit var instance: PluginPortal
         lateinit var pluginPortalJarFile: File
-        val isFreeVersion = fasle
+        val isFreeVersion = false
     }
 
 
