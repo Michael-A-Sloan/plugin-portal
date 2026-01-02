@@ -11,5 +11,5 @@ plugins {
 }
 
 rootProject.name = "plugin-portal"
-/*include("common", "plugin")*/
-include("premium", "plugin")
+include("common", "plugin")
+/*include("premium", "plugin")*/
